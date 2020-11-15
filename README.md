@@ -1,4 +1,4 @@
-# Hello there, my name is Patrick Kennedy 👋
+# Hello, My Name is Patrick Kennedy 👋
 ### Let's connect 😄
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=pkennedytx1@gmail.com)
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pkennedytx1/)
