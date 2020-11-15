@@ -8,7 +8,7 @@
 <br />
 [![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
 
-## Fullstack Engineer | Bioinfomratics Engineer | Machine Learning Engineer
+## Fullstack Engineer | Bioinformatics Engineer | Machine Learning Engineer
 
 - 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
 - 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
