@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
 - 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
-- 👯 I’m looking to collaborate on any phd disseratation, bioinformatics company, or life sciences company needing a machine learning model or data pipeline for any medical or biological problem.
+- 👯 I’m looking to collaborate on any phd dissertation, bioinformatics company, or life sciences company needing a machine learning model or data pipeline for any medical or biological problem.
 - 🤔 I’m looking for help with deciding what my next step in education should be. (MS Data Science, MS Statistics, MS Bioinformatics)
 - 💬 Ask me about how simmilar problem solving in biology applies to computer science and software engineering.
 - 📫 How to reach me: Reach out to me on LinkedIn or shoot me an email, I'de love to talk!
@@ -52,4 +52,5 @@
 - [Introduction To Unit Testing with React](https://medium.com/@pkennedytx1/introduction-to-unit-testing-with-react-c29ae085291a?source=rss-2572cb4f618e------2)
 <!-- BLOG-POST-LIST:END -->
 
+<br /><br />
 [![Top Langs](https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
