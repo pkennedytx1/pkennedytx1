@@ -16,6 +16,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Junior Javascript Developers Start Using Typescript Right Now](https://medium.com/@pkennedytx1/junior-javascript-developers-start-using-typescript-right-now-f6976a290457?source=rss-2572cb4f618e------2)
+- [Introduction To Unit Testing with React](https://medium.com/@pkennedytx1/introduction-to-unit-testing-with-react-c29ae085291a?source=rss-2572cb4f618e------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Patricks's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
