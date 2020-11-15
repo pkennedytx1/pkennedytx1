@@ -26,7 +26,7 @@
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-
+<br/>
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Junior Javascript Developers Start Using Typescript Right Now](https://medium.com/@pkennedytx1/junior-javascript-developers-start-using-typescript-right-now-f6976a290457?source=rss-2572cb4f618e------2)
