@@ -1,13 +1,13 @@
 # Hello there, my name is Patrick Kennedy 👋
+### Let's connect 😄
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=pkennedytx1@gmail.com)
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pkennedytx1/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pkennedytx1)
 <br />
 <br />
-[![Patricks's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
+[![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Fullstack Engineer | Bioinfomratics Enthusiast | Machine Learning Student
+### Fullstack Engineer | Bioinfomratics Enthusiast | Machine Learning Student
 
 - 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
 - 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
