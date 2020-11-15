@@ -17,6 +17,16 @@
 - 📫 How to reach me: Reach out to me on LinkedIn or shoot me an email, I'de love to talk!
 - ⚡ Fun fact: I am a huge coffee nerd. If you like in the North Austin area, stay tuned for a new coffee shop ☕️.
 
+### Technologies I Have Used/Use
+<img align="left" alt="gmail" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="gmail" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Junior Javascript Developers Start Using Typescript Right Now](https://medium.com/@pkennedytx1/junior-javascript-developers-start-using-typescript-right-now-f6976a290457?source=rss-2572cb4f618e------2)
