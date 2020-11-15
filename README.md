@@ -3,6 +3,8 @@
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pkennedytx1/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pkennedytx1)
 <br />
+[![Patricks's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Fullstack Engineer | Bioinfomratics Enthusiast | Machine Learning Student
 
@@ -19,7 +21,5 @@
 - [Junior Javascript Developers Start Using Typescript Right Now](https://medium.com/@pkennedytx1/junior-javascript-developers-start-using-typescript-right-now-f6976a290457?source=rss-2572cb4f618e------2)
 - [Introduction To Unit Testing with React](https://medium.com/@pkennedytx1/introduction-to-unit-testing-with-react-c29ae085291a?source=rss-2572cb4f618e------2)
 <!-- BLOG-POST-LIST:END -->
-
-[![Patricks's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
