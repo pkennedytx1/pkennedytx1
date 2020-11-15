@@ -53,4 +53,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br /><br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pkennedytx1&repo=MERN-template)](https://github.com/pkennedytx1/MERN-template)
+
 [![Top Langs](https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
