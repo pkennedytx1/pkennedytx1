@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello there, my name is Patrick 👋
 
-<!--
-**pkennedytx1/pkennedytx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### I'm a Fullstack Developer, Bioinfomratics Enthusiast, & Machine Learning Student
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
