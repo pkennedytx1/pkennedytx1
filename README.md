@@ -17,3 +17,5 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
