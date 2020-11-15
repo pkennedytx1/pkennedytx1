@@ -52,6 +52,5 @@
 - [Introduction To Unit Testing with React](https://medium.com/@pkennedytx1/introduction-to-unit-testing-with-react-c29ae085291a?source=rss-2572cb4f618e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br /><br />
 ## Projects for Others
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pkennedytx1&repo=MERN-template)](https://github.com/pkennedytx1/MERN-template)
