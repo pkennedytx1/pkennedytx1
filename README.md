@@ -1,6 +1,7 @@
 # Hello there, my name is Patrick Kennedy 👋
 
 ## Fullstack Engineer | Bioinfomratics Enthusiast | Machine Learning Student
+https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white
 
 - 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
 - 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
