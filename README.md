@@ -17,7 +17,7 @@
 - 📫 How to reach me: Reach out to me on LinkedIn or shoot me an email, I'de love to talk!
 - ⚡ Fun fact: I am a huge coffee nerd. If you like in the North Austin area, stay tuned for a new coffee shop ☕️.
 
-### Technologies I Have Used/Use
+### Software Engineering Technololgies I Use
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="node" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
