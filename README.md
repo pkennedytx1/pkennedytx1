@@ -7,7 +7,7 @@
 <br />
 [![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1)](https://github.com/anuraghazra/github-readme-stats)
 
-### Fullstack Engineer | Bioinfomratics Enthusiast | Machine Learning Student
+## Fullstack Engineer | Bioinfomratics Engineer | Machine Learning Engineer
 
 - 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
 - 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
@@ -17,7 +17,7 @@
 - 📫 How to reach me: Reach out to me on LinkedIn or shoot me an email, I'de love to talk!
 - ⚡ Fun fact: I am a huge coffee nerd. If you like in the North Austin area, stay tuned for a new coffee shop ☕️.
 
-### Software Engineering Technololgies I Use
+## Software Engineering Technololgies I Use
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="node" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -46,7 +46,7 @@
 
 <br/><br/><br/><br/><br/>
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Junior Javascript Developers Start Using Typescript Right Now](https://medium.com/@pkennedytx1/junior-javascript-developers-start-using-typescript-right-now-f6976a290457?source=rss-2572cb4f618e------2)
 - [Introduction To Unit Testing with React](https://medium.com/@pkennedytx1/introduction-to-unit-testing-with-react-c29ae085291a?source=rss-2572cb4f618e------2)
