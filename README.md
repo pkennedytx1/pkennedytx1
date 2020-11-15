@@ -44,7 +44,7 @@
 <img align="left" alt="styledcomps" src="https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img align="left" alt="bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
