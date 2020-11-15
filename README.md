@@ -21,6 +21,7 @@
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="node" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="nestjs" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="graphql" src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
