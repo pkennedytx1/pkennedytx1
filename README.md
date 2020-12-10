@@ -6,7 +6,7 @@
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pkennedytx1)
 <br />
 <br />
-[![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Fullstack Engineer | Bioinformatics Engineer | Machine Learning Engineer
 
