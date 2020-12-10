@@ -53,4 +53,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Notable Coding Examples
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pkennedytx1&repo=MERN-template)](https://github.com/pkennedytx1/MERN-template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pkennedytx1&repo=MERN-template&theme=radical)](https://github.com/pkennedytx1/MERN-template)
