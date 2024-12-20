@@ -8,15 +8,15 @@
 <br />
 [![Patricks's Weekly Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pkennedytx1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Fullstack Engineer | Bioinformatics Engineer | Machine Learning Engineer
+## Fullstack Engineer | Bioinformatics Engineer | Coffee Nerd and Business Owner
 
-- 🔭 I’m currently working on a Nest.js API utilizing Graphql to accompany a podcast I am starting called Maybe I'm Wrong.
-- 🌱 I’m currently learning Machine Learning Engineering and taking a Linear Algebra course at ACC.
-- 👯 I’m looking to collaborate on any phd dissertation, bioinformatics company, or life sciences company needing a machine learning model or data pipeline for any medical or biological problem.
-- 🤔 I’m looking for help with deciding what my next step in education should be. (MS Data Science, MS Statistics, MS Bioinformatics)
+- 🔭 I’m currently working on a small peice of software to simplify inventory tracking for small businesses with help AI and LLM integrations to improve efficiency without the need for increased staff.
+- 🌱 I’m currently working on my AWS certifications and digesting coffee genetic today to teach a model about coffee genetics. 
+- 👯 I'm looking for clients for my coffee consulting business where I help improve revenue, efficiency, and quality at coffee shops.
+- 🤔 I'm looking for help with coding projects and in general anyone that wants to build anything.
 - 💬 Ask me about how simmilar problem solving in biology applies to computer science and software engineering.
 - 📫 How to reach me: Reach out to me on LinkedIn or shoot me an email, I'de love to talk!
-- ⚡ Fun fact: I am a huge coffee nerd. If you like in the North Austin area, stay tuned for a new coffee shop ☕️.
+- ⚡ Fun fact: I am a huge coffee nerd. If you like in the North Austin area, lets chat, I can help you decide which machine to get, what coffees to buy etc...
 
 ## Software Engineering Technololgies I Use
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
